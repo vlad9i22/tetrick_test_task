@@ -1,4 +1,4 @@
-from strict import strict
+from solution import strict
 import pytest
 
 
